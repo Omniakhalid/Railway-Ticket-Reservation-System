@@ -1,0 +1,5 @@
+k	k	k	ff	fff	1	25
+a	a	a	ff	fff	1	25
+omnia@yahoo.com	omnia	12a	a	b	4	1/8
+dpp	dpp	dpp	dd	dd	3	253
+omnia	omnia	omnia	e	f	5	4/3
